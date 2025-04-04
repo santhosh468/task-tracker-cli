@@ -97,10 +97,8 @@ The application includes error handling for:
 - Invalid status values
 - Missing command arguments
 
-## Project from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+### Project from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
-## License
-
-[MIT License](LICENSE)
+This project is licensed under [MIT License](LICENSE)
 
 For questions, [connect with me](santhoshpakkiri550@gmail.com) 
