@@ -101,4 +101,4 @@ The application includes error handling for:
 
 This project is licensed under [MIT License](LICENSE)
 
-For questions, [connect with me](santhoshpakkiri550@gmail.com) 
+For questions, [connect with me](mailto:santhoshpakkiri550@gmail.com) 
